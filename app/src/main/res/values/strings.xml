@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Colour Memory</string>
+    <string name="cardList">cardList</string>
+    <string name="match_card">Match</string>
+    <string name="score">Score :</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="empty_name">Please enter name</string>
+    <string name="close">Close</string>
+    <string name="no_high_score">No high score available</string>
+    <string name="card_high_score">card_high_score</string>
+</resources>
